@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iv444iv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dark1dev) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iv4444iv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dark1dev) 
 
 # 💻 Tech Stack:
 ### Programming languages
