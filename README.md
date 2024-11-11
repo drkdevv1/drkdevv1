@@ -9,7 +9,7 @@ Always learning new technologies to keep growing!
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iv4444iv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dark1dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jose-calderon-huaman-2a132524a/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iv4444iv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dark1dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-calderon-huaman-2a132524a/) 
 
 # 💻 Tech Stack:
 ### Programming Languages
