@@ -7,6 +7,7 @@ I’m a **Software Engineering student** with a passion for building impactful a
 
 Always learning new technologies to keep growing!
 
+![](https://komarev.com/ghpvc/?username=drkdevv1&color=blueviolet&style=for-the-badge&abbreviated=true)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-calderon-huaman-2a132524a/) 
